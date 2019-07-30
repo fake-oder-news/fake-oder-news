@@ -1,0 +1,25 @@
+---
+name: 🍰 Pullrequest
+about: A PR ready to be reviewed.
+labels: pr
+title: 🍰 [PR] 
+---
+## 🍰 Pullrequest
+<!-- Describe the Pullrequest. Use Screenshots if possible. -->
+
+### Issues
+<!-- Which Issues does this fix, which are related?
+- fixes #XXX
+- relates #XXX
+-->
+- None
+
+### How2Test
+<!-- Give a detailed description how to test your PR and confirm it is working as expected. -->
+- None
+
+### Todo
+<!-- In case some parts are still missing, list them here.
+- [X] None
+- [ ] Do some stuff
+-->
